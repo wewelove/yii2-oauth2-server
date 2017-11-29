@@ -1,6 +1,6 @@
 {
     "name": "wewelove/yii2-oauth2-server",
-    "description": "OAuth2 Server for PHP",
+    "description": "扩展实现了 [bshaffer/oauth2-server-php](https://github.com/bshaffer/oauth2-server-php) 的全部功能，简单易用。",
     "keywords": ["yii2", "extension", "module", "oauth2"],
     "homepage": "https://github.com/wewelove/yii2-oauth2-server",
     "type": "yii2-extension",
@@ -11,7 +11,7 @@
     },
     "authors": [
         {
-            "name": "Wang Hao",
+            "name": "wewelove",
             "email": "wewelove88@gmail.com"
         }
     ],
@@ -27,7 +27,7 @@
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
-            "dev-develop": "1.0.x-dev"
+            "dev-master": "1.0.x-dev"
         }
     }
 }
