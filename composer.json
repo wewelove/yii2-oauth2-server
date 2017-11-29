@@ -1,6 +1,7 @@
 {
     "name": "wewelove/yii2-oauth2-server",
-    "description": "扩展实现了 [bshaffer/oauth2-server-php](https://github.com/bshaffer/oauth2-server-php) 的全部功能，简单易用。",
+    "description": "使用 Yii2 框架快速搭建 OAuth2 Server。",
+    "version": "1.0.x-dev",
     "keywords": ["yii2", "extension", "module", "oauth2"],
     "homepage": "https://github.com/wewelove/yii2-oauth2-server",
     "type": "yii2-extension",
@@ -12,7 +13,9 @@
     "authors": [
         {
             "name": "wewelove",
-            "email": "wewelove88@gmail.com"
+            "email": "wewelove88@gmail.com",
+            "homepage": "http://wewelove.github.io/fcoder/",
+            "role": "Developer"
         }
     ],
     "require": {
