@@ -1,7 +1,6 @@
-yii2-oauth2-server
-==================
+# yii2-oauth2-server
 
-扩展实现了 [bshaffer/oauth2-server-php](https://github.com/bshaffer/oauth2-server-php) 的全部功能，简单易用。
+扩展封装了 [bshaffer/oauth2-server-php](https://github.com/bshaffer/oauth2-server-php) 的全部功能，简单易用。
 
 ## 安装
 
@@ -11,12 +10,6 @@ yii2-oauth2-server
 
 ```
 composer require --prefer-dist wewelove/yii2-oauth2-server "*"
-```
-
-或
-
-```json
-"wewelove/yii2-oauth2-server": "1.0.x-dev"
 ```
 
 ## 设置
